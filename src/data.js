@@ -5058,6 +5058,27 @@ module.exports = [
     ],
   },
   {
+    name: 'Alexander Isora',
+    description:
+      'Founder @ Unicorn Platform',
+    url: 'https://isora.me/uses/',
+    emoji: '🦄',
+    country: '🌎',
+    computer: 'apple',
+    phone: 'iphone',
+    tags: [
+      'Developer',
+      'Javascript Engineer',
+      'Frontend',
+      'IndieHacker',
+      'Entrepreneur',
+      'React',
+      'CSS',
+      'Django',
+      'Python',
+    ],
+  },
+  {
     name: 'Lakshmipriya Mukundan',
     description:
       'Javascript lover, FullStack enthusiast, React Learner (current), Pet lover',
